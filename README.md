@@ -168,7 +168,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
   Define terms and link to docs.github.com.
 -->
 
-<details id=4 open>
+<details id=4>
 <summary><h2>Step 4: Make a task list</h2></summary>
 
 _Great job adding a code example to the file :partying_face:_
@@ -216,7 +216,7 @@ GitHub Actions went ahead and made a branch and a pull request for you. So you'l
   Define terms and link to docs.github.com.
 -->
 
-<details id=5>
+<details id=5 open>
 <summary><h2>Step 5: Merge your pull request</h2></summary>
 
 _Great job adding a task list to the file :heart:_
